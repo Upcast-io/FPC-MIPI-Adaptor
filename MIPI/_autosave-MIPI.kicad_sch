@@ -1,0 +1,40 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "34c8fba0-e062-4cd4-80d6-39b8b6609223")
+	(paper "A4")
+	(lib_symbols)
+	(bus_entry
+		(at 181.61 72.39)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67a64d8f-d011-49bf-9dc0-3b90fe923f9d")
+	)
+	(bus_entry
+		(at 173.99 73.66)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91e4afb0-6dd9-4639-a2d6-380d481cda9c")
+	)
+	(bus_entry
+		(at 177.8 72.39)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c90e38cd-cbf2-4ac4-a700-acb7fe5e7f12")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
